@@ -15,3 +15,4 @@ Handles the actual build process, consisting of multiple phases.
 	• Command: mvn deploy
 		○ Deploys the packaged application to a remote repository or server.
 
+NO changes made on 2nd commit on file 1
