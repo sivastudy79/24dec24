@@ -1,0 +1,17 @@
+Maven (Build) Lifecycle::- 
+Handles the actual build process, consisting of multiple phases.
+	• Command: mvn validate
+		○ Validates the pom.xml and checks project structure.
+	• Command: mvn compile
+		○ Compiles the source code.
+	• Command: mvn test
+		○ Runs unit tests using a testing framework like JUnit or TestNG.
+	• Command: mvn package
+		○ Packages the compiled code into a distributable format (e.g., JAR or WAR).
+	• Command: mvn verify
+		○ Runs integration tests and verifies the project.
+	• Command: mvn install
+		○ Installs the package to the local Maven repository.
+	• Command: mvn deploy
+		○ Deploys the packaged application to a remote repository or server.
+
