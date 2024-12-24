@@ -17,3 +17,4 @@ Handles the actual build process, consisting of multiple phases.
 
 NO changes made on 2nd commit on file 1
 making the second entry in file 1 on commit 3
+making the 3rd line in file 1 for commit 3 itself
