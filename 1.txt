@@ -16,3 +16,4 @@ Handles the actual build process, consisting of multiple phases.
 		○ Deploys the packaged application to a remote repository or server.
 
 NO changes made on 2nd commit on file 1
+making the second entry in file 1 on commit 3
